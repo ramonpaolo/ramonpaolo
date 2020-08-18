@@ -1,8 +1,30 @@
-### Hi there 👋
+#### Meu nome é Ramon, atualmente trabalho em projetos pessoais com as tecnologias que estou aprendendo: ReactJs e React  Native com backend em Node.Js(Express). Pretendo trabalhar com diversar tecnologias, tanto. Web, Mobile e Ciência de Dados. Eu possuo um blog para aprendizado de <a href="https://ramonpaolo.github.io/blog-data-science">Data Science<a/> em Python e R para quem tiver interesse em aprender. Sou uma pessoa muito curiosa que não se contenta com o que tem, sempre procuro saber mais, independente da área. 👋
+  
+##### Stack Mobile:
+ - Flutter(Firebase)
+ - React Native(MongoDB, Firebase e Banco de Dados Relacional)
+ 
+##### Stack Web:
+ - HTML 5
+ - CSS3
+ - EcmaScript 6+
+ - jQuery
+ - Bootstrap 4.4 +
+ - TypeScript
+ - React 16.13.1 +(Hooks e Redux)
+ - Node.js(Express)
+ 
+##### Data Science com Python:
+ - Jupyter-Notebook
+ - Python 3.7+
+ - pandas
+ - matplotlib
+ - pygal
+ - Scikit-learning
 
 <!--
 **ramonpaolo/ramonpaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
