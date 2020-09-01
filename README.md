@@ -1,4 +1,4 @@
-#### Meu nome é Ramon, atualmente me dedicando em projetos pessoais com as tecnologias que estou aprendendo: ReactJs e React Native com backend em Node.Js(Express). Pretendo trabalhar com diversar tecnologias, tanto Web, Mobile e Ciência de Dados. Possuo um blog para aprendizado de <a href="https://ramonpaolo.github.io/blog-data-science">Data Science<a/> em Python e R para quem tiver interesse em aprender. Sou uma pessoa muito curiosa que não se contenta com o que tem, sempre procuro saber mais, independente da área. 👋
+#### Meu nome é Ramon, atualmente me dedicando em projetos pessoais com as tecnologias que estou aprendendo: ReactJs e React Native com backend em Node.Js(Express). Pretendo trabalhar com diversar tecnologias, tanto Web, Mobile e Ciência de Dados. Possuo um blog para aprendizado de <a href="http://rpdatascience-com-br.umbler.net/">Data Science<a/> em Python e R para quem tiver interesse em aprender. Sou uma pessoa muito curiosa que não se contenta com o que tem, sempre procuro saber mais, independente da área. 👋
   
 ##### Stack Mobile:
  - Flutter(Firebase)
