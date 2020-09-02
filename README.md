@@ -2,7 +2,7 @@
   
 ##### Stack Mobile:
  - Flutter(Firebase)
- - React Native(MongoDB, Firebase e Banco de Dados Relacional)
+ - React Native(MongoDB e Banco de Dados Relacional)
  
 ##### Stack Web:
  - HTML 5
