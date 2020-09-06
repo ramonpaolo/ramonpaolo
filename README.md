@@ -10,9 +10,8 @@
  - EcmaScript 6+
  - jQuery
  - Bootstrap 4.4 +
- - TypeScript
- - React 16.13.1 +(Hooks e Redux)
- - Node.js(Express)
+ - React 16.13.1 +
+ - Node.js(Express, socket.io)
  
 ##### Data Science com Python:
  - Jupyter-Notebook
