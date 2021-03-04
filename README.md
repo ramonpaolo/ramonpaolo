@@ -1,22 +1,12 @@
-#### Meu nome é Ramon, atualmente me dedicando em projetos pessoais com as tecnologias que estou aprendendo: ReactJs, Python e NodeJs. Pretendo trabalhar com diversar tecnologias, tanto Web, Mobile e Ciência de Dados. Sou uma pessoa muito curiosa que não se contenta com o que tem, sempre procuro saber mais, independente da área. 👋
+#### Meu nome é :rocket: Ramon, sou otaku :superhero_man:, gamer :video_game: e programador :man_technologist:. Atualmente me dedicando em projetos pessoais com as tecnologias que estou aprendendo: ReactJs, Python e NodeJs. Pretendo trabalhar com diversar tecnologias, tanto Web, Mobile e Ciência de Dados. Sou uma pessoa que tem curiosidade em várias áreas de TI e não fixa em apenas uma.Também gosto muito de :satellite: Ciências :telescope: e pretendo futuramente integrar o conhecimento de :robot: IA com :dna: Ciência :microscope: em um futuro próximo :rocket:
   
-##### Stack Mobile:
- - Flutter(Firebase e Banco de Dados Relacional)
- 
-##### Stack Web:
- - HTML 5
- - CSS3
- - EcmaScript 6+
- - React 16.13.1 +
- - Node.js(Express, socket.io)
- 
-##### Data Science com Python:
- - Jupyter-Notebook
- - Python 3.7+
- - pandas
- - matplotlib
- - pygal
- - Scikit-learning
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ligth" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact)](https://github.com/ramonpaolo/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ramonpaolo.AgroApp) <img src="https://img.shields.io/github/stars/ramonpaolo" alt="Stars Badge"/> 
+
+[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://Linkedin.com/in/ramon-paolo-maran-5524b3190) [![](https://img.shields.io/badge/-Email-0073B1?style=flat-square)](mailto:ramonpaolomaran12@gmail.com)
 
 <!--
 **ramonpaolo/ramonpaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
