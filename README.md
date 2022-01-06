@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact)](https://github.com/ramonpaolo/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ramonpaolo.AgroApp) <img src="https://img.shields.io/github/stars/ramonpaolo" alt="Stars Badge"/> 
+<img src="https://img.shields.io/github/stars/ramonpaolo" alt="Stars Badge"/> 
 
-[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://Linkedin.com/in/ramon-paolo-maran-5524b3190) [![](https://img.shields.io/badge/-Email-0073B1?style=flat-square)](mailto:ramonpaolomaran12@gmail.com)
+[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](http://Linkedin.com/in/ramonpaolomaran) [![](https://img.shields.io/badge/-Email-0073B1?style=flat-square)](mailto:ramonpaolomaran12@gmail.com)
 
 <!--
 **ramonpaolo/ramonpaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
