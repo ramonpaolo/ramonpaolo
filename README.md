@@ -2,7 +2,7 @@
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ligth" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact)](https://github.com/ramonpaolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact&hide=jupyter%20notebook)](https://github.com/ramonpaolo/github-readme-stats)
 
 <img src="https://img.shields.io/github/stars/ramonpaolo" alt="Stars Badge"/> 
 
