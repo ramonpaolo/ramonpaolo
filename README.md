@@ -15,9 +15,9 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ligth" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=light" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact)](https://github.com/ramonpaolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact&hide=css,html,scss)](https://github.com/ramonpaolo/github-readme-stats)
 
  <a href="https://instagram.com/ramonpaolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ramonpaolomaran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
