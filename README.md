@@ -1,5 +1,4 @@
-#### :rocket: Meu nome é Ramon, sou otaku :superhero_man:, gamer :video_game: e programador :man_technologist:. Atualmente me dedicando em projetos pessoais com ReactJs e NodeJs. Pretendo trabalhar com diversar tecnologias, tanto Web Full Stack e Mobile. Sou uma pessoa que tem curiosidade em várias áreas de TI e não fixa em apenas uma. Também gosto muito de :satellite: Ciências :telescope: e pretendo futuramente integrar o conhecimento de :robot: IA com :dna: Ciência :microscope: em um futuro próximo :rocket:
-
+#### :rocket: Meu nome é Ramon, sou otaku :superhero_man:, gamer :video_game: e programador :man_technologist:. Atualmente me dedicando em projetos pessoais com ReactJs e NodeJs. Pretendo trabalhar com diversar tecnologias, tanto Web Full Stack e Mobile. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: Ciências. :telescope: Pretendo futuramente integrar o conhecimento de :robot: IA com :dna: Ciência :microscope:
 <div style="display: inline-block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,11 +12,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=light" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonpaolo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact&hide=css,html,scss)](https://github.com/ramonpaolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact&hide_border=true&hide=css,html,scss&theme=dracula)](https://github.com/ramonpaolo/github-readme-stats)
 
  <a href="https://instagram.com/ramonpaolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ramonpaolomaran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
