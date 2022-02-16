@@ -1,4 +1,5 @@
-#### :rocket: Meu nome é Ramon, sou otaku :superhero_man:, gamer :video_game: e programador :man_technologist:. Atualmente me dedicando em projetos pessoais com ReactJs e NodeJs. Pretendo trabalhar com diversar tecnologias, tanto Web Full Stack e Mobile. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: Ciências. :telescope: Pretendo futuramente integrar o conhecimento de :robot: IA com :dna: Ciência :microscope:
+#### :rocket: Meu nome é Ramon, sou otaku :superhero_man:, gamer :video_game: e programador :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, Kubernetes, MongoDB e AWS. Pretendo trabalhar com diversar tecnologias, com foco no Back End, mas podendo atuar no Full Stack. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: ciências :telescope:. Pretendo futuramente abrir minha própria Startup focada no Agro brasileiro, integrando todos os meus conhecimentos em TI.
+
 <div style="display: inline-block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
