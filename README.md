@@ -1,4 +1,4 @@
-#### :rocket: Meu nome é Ramon, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, Kubernetes, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, com foco no Back End, mas podendo atuar no Full Stack. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: ciências :telescope:. Pretendo futuramente abrir minha própria Startup focada no Agro brasileiro, integrando todos os meus conhecimentos em TI.
+#### :rocket: Meu nome é Ramon, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, Kubernetes, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, com foco no backend, mas podendo atuar no Full Stack. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: ciências :telescope: e pretendo futuramente incorporar programação com astronomia
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -6,7 +6,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+<!--   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> -->
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
