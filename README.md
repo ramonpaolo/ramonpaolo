@@ -1,4 +1,4 @@
-#### :rocket: Meu nome é Ramon, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, Kubernetes, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, com foco no backend, mas podendo atuar no Full Stack. Sou uma pessoa que tem curiosidade em várias áreas de TI. Também gosto muito de :satellite: ciências :telescope: e pretendo futuramente incorporar programação com astronomia. 
+#### :rocket: Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, principalmente as novas do mercado. Sou uma pessoa que ama estudar, tanto TI, como também, economia e :telescope: ciências :satellite:
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
