@@ -38,3 +38,5 @@
 <a href = "https://medium.com/@ramonpaolo"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 #### Discord: r4deu51#1033
+
+![](https://hit.yhype.me/github/profile?user_id=53312850)
