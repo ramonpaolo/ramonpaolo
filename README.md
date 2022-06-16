@@ -1,4 +1,4 @@
-#### :rocket: Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, principalmente as novas do mercado. Sou uma pessoa que ama estudar, tanto TI, como também, economia e :telescope: ciências :satellite:
+#### :rocket: Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, principalmente as novas do mercado. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
 
 # Habilidades
 
@@ -19,7 +19,13 @@
 </div>
 
 # Certificações
-<a href='https://www.credly.com/badges/c07da8a2-44ea-4b79-aec1-f5dba3bdcd51/public_url' ><img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/72x72/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+<a href='https://www.credly.com/badges/c07da8a2-44ea-4b79-aec1-f5dba3bdcd51/public_url' >
+  <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/72x72/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+</a>
+
+<a href='https://www.freecodecamp.org/certification/ramonpaolo/back-end-development-and-apis' >
+  <img height="78px" width="78px" align="center" alt="FreeCodeCamp Development backend and APIs with NodeJs" src="https://ik.imagekit.io/9t3dbkxrtl/image_P9UJJqiyY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655341109466">
+</a>
 
 # Estudando no momento
 <div>
