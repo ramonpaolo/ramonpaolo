@@ -1,4 +1,4 @@
-#### :rocket: Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, tanto backend como DevOps. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
+#### Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, tanto backend como DevOps. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
 
 # Habilidades
 
@@ -41,6 +41,7 @@
  <a href="https://www.linkedin.com/in/ramonpaolomaran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:contato.ramonpaolo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://medium.com/@ramonpaolo"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href = "https://openprofile.dev/profile/r4deu51"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux-foundation&logoColor=white" target="_blank"></a>
 
 #### Discord: r4deu51#1033
 
