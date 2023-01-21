@@ -28,11 +28,6 @@
   <img height="78px" width="78px" align="center" alt="FreeCodeCamp Development backend and APIs with NodeJs" src="https://ik.imagekit.io/9t3dbkxrtl/image_P9UJJqiyY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655341109466">
 </a>
 
-# Estudando no momento
-<div>
-<img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-</div>
-
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpaolo&layout=compact&hide_border=true&hide=css,html,scss,python&theme=dracula)](https://github.com/ramonpaolo/github-readme-stats)
@@ -43,6 +38,6 @@
 <a href = "https://medium.com/@ramonpaolo"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "https://openprofile.dev/profile/r4deu51"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux-foundation&logoColor=white" target="_blank"></a>
 
-#### Discord: r4deu51#1033
+#### Discord: R4deu51#1033
 
 ![](https://hit.yhype.me/github/profile?user_id=53312850)
