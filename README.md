@@ -1,4 +1,4 @@
-#### Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, tanto backend como DevOps. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
+Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando em projetos pessoais com NodeJs, Docker, MongoDB, AWS e Flutter. Pretendo trabalhar com diversar tecnologias, tanto backend como DevOps. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
 
 # Habilidades
 
