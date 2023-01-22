@@ -38,6 +38,6 @@ Meu nome é Ramon, sou programador backend, adoro jogar :video_game:, ler livros
 <a href = "https://medium.com/@ramonpaolo"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "https://openprofile.dev/profile/r4deu51"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux-foundation&logoColor=white" target="_blank"></a>
 
-#### Discord: R4deu51#1033
+#### <a href="https://discordapp.com/users/515273278605230101">Discord: R4deu51#1033</a>
 
 ![](https://hit.yhype.me/github/profile?user_id=53312850)
