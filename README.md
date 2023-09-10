@@ -1,4 +1,6 @@
-Meu nome é Ramon, sou Software Engineer, adoro jogar :video_game:, ler livros e programar :man_technologist:. Atualmente me dedicando no meu trabalho na Pagar.me | Stone e em projetos pessoais com NodeJs, Docker, PostgreSQL, AWS e Flutter. Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
+Meu nome é Ramon, sou Software Engineer NodeJs.
+
+Adoro programar :man_technologist:, ler livros e ouvir música. Atualmente me dedicando no meu trabalho na Pagar.me | Stone e em projetos pessoais(incluindo meu SaaS e minha nascente Startup). Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
 
 # Habilidades
 
