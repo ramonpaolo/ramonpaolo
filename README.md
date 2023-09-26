@@ -1,8 +1,8 @@
-Meu nome é Ramon, sou Software Engineer NodeJs.
+Hi, my name is Ramon, I'm Software Engineer NodeJs working at [Stone Co](https://www.stone.com.br).
 
-Adoro programar :man_technologist:, ler livros e ouvir música. Atualmente me dedicando no meu trabalho na Pagar.me | Stone e em projetos pessoais(incluindo meu SaaS e minha nascente Startup). Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia e :telescope: ciências :satellite:
+I love programming :man_technologist:, read book and listen musics(I love [Bossa Nova](https://www.youtube.com/watch?v=Fjp04Ax_MiA)). Actually working At Pagar.me | Stone Co and in my own SaaS. I'm a person that love study, both TI and also 💸 economy and :telescope: science :satellite:
 
-# Habilidades
+## Skills
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,7 +19,7 @@ Adoro programar :man_technologist:, ler livros e ouvir música. Atualmente me de
   <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain.svg">
 </div>
 
-# Certificações
+## Certifications
 <a href='https://www.credly.com/badges/c07da8a2-44ea-4b79-aec1-f5dba3bdcd51/public_url' >
   <img align="center" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/72x72/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 </a>
