@@ -1,6 +1,6 @@
 Hi, my name is Ramon, I'm Software Engineer NodeJs working at [Stone Co](https://www.stone.com.br).
 
-I love programming :man_technologist:, read book and listen musics(I love [Bossa Nova](https://www.youtube.com/watch?v=Fjp04Ax_MiA)). Actually working At Pagar.me | Stone Co and in my own SaaS. I'm a person that love study, both TI and also 💸 economy and :telescope: science :satellite:
+I love programming :man_technologist:, read book and listen musics(I love [Bossa Nova](https://www.youtube.com/watch?v=Fjp04Ax_MiA)). Currently working at Stone Co. and in my own SaaS. I'm a person that love study, both TI and also 💸 economy and :telescope: science :satellite:
 
 ## Skills
 
