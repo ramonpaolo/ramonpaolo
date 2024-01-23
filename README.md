@@ -1,6 +1,8 @@
-Hi, my name is Ramon, I'm Software Engineer NodeJs working at [Stone Co](https://www.stone.com.br).
+Hi, my name is Ramon, I'm Software Engineer working at [Stone Co.](https://www.stone.com.br).
 
-I love programming :man_technologist:, read book and listen musics(I love [Bossa Nova](https://www.youtube.com/watch?v=Fjp04Ax_MiA)). Currently working at Stone Co. and in my own SaaS. I'm a person that love study, both TI and also 💸 economy and :telescope: science :satellite:
+I love programming :man_technologist:, read book 📖 and listen musics 🎵. 
+
+Currently working at Stone Co. and in my own SaaS(Software as a Service).
 
 ## Skills
 
@@ -17,6 +19,7 @@ I love programming :man_technologist:, read book and listen musics(I love [Bossa
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="RabbitMQ" height="30" width="40" src="https://icomoon.io/iconsabf18a1/4/649.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain.svg">
+  <img align="center" alt="K8s" title="K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
 
 ## Certifications
